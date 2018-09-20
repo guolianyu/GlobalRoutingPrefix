@@ -1,0 +1,12 @@
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\bin\Debug\netcoreapp2.0\GlobalRoutingPrefix.deps.json
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\bin\Debug\netcoreapp2.0\GlobalRoutingPrefix.runtimeconfig.json
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\bin\Debug\netcoreapp2.0\GlobalRoutingPrefix.runtimeconfig.dev.json
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\bin\Debug\netcoreapp2.0\GlobalRoutingPrefix.dll
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\obj\Debug\netcoreapp2.0\GlobalRoutingPrefix.csprojAssemblyReference.cache
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\obj\Debug\netcoreapp2.0\GlobalRoutingPrefix.csproj.CoreCompileInputs.cache
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\obj\Debug\netcoreapp2.0\GlobalRoutingPrefix.AssemblyInfoInputs.cache
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\obj\Debug\netcoreapp2.0\GlobalRoutingPrefix.AssemblyInfo.cs
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\bin\Debug\netcoreapp2.0\GlobalRoutingPrefix.pdb
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\obj\Debug\netcoreapp2.0\GlobalRoutingPrefix.dll
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\obj\Debug\netcoreapp2.0\GlobalRoutingPrefix.pdb
+E:\ND-GLY\NETCore\testPrefix\GlobalRoutingPrefix\bin\Debug\netcoreapp2.0\GlobalRoutingPrefix.xml

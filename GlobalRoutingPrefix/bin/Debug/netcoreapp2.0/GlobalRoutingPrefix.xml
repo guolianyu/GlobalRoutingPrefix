@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GlobalRoutingPrefix</name>
+    </assembly>
+    <members>
+        <member name="M:GlobalRoutingPrefix.MvcOptionsExtensions.UseCentralRoutePrefix(Microsoft.AspNetCore.Mvc.MvcOptions,Microsoft.AspNetCore.Mvc.Routing.IRouteTemplateProvider)">
+            <summary>
+            扩展方法
+            </summary>
+            <param name="opts"></param>
+            <param name="routeAttribute"></param>
+        </member>
+        <member name="T:GlobalRoutingPrefix.RouteConvention">
+            <summary>
+            全局路由前缀配置
+            </summary>
+        </member>
+        <member name="F:GlobalRoutingPrefix.RouteConvention._centralPrefix">
+            <summary>
+            定义一个路由前缀变量
+            </summary>
+        </member>
+        <member name="M:GlobalRoutingPrefix.RouteConvention.#ctor(Microsoft.AspNetCore.Mvc.Routing.IRouteTemplateProvider)">
+            <summary>
+            调用时传入指定的路由前缀
+            </summary>
+            <param name="routeTemplateProvider"></param>
+        </member>
+    </members>
+</doc>
